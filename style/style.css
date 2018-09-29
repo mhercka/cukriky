@@ -1,0 +1,329 @@
+li {
+
+  word-spacing: 30px;
+
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+
+.jumbotron
+{
+
+background-color: #C42416;
+color: white;
+font-family: Coolvetica Rg;
+margin-bottom: 0px;
+text-align: center;
+border-style: solid;
+border-top-color: #C42416;
+border-right-color:#C42416;
+border-left-color:#C42416;
+border-bottom-color:  #DCDCDC;
+border-bottom-width: 13px;
+}
+
+#line
+{
+background-color: #DCDAD4;
+ text-indent: 0;
+color:#DCDAD4;
+
+
+
+}
+
+#jumbotronreklamne
+{
+
+font-size: 70px;
+opacity: 0.2;
+text-align: left;
+
+}
+
+#jumbotroncukriky
+{
+
+font-size: 70px;
+opacity: 0.2;
+text-align: right;
+
+
+}
+
+#middle
+{
+
+padding-top: 5px;
+	text-align: center;
+}
+
+#nav
+{
+
+font-size: 20px;
+color: #DCDCDC;
+font-weight: bold;
+
+
+
+}
+
+#bottomhr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    background: #DCDCDC;
+
+}
+
+#tophr
+
+{
+
+
+
+
+    background: #DCDCDC;
+
+
+}
+
+a:hover {
+    color: #C42416;
+}
+
+#ktosiunaskupilcukriky
+{
+
+	text-align: center;
+	font-size: 35px;
+}
+
+#border
+{
+border-style: solid;
+background: #EBEBEB;
+border-color: 	#E5E5E5;
+
+}
+
+#pripojtesa
+{
+
+text-align: center;
+font-size: 20px;
+
+}
+
+#bottomborder
+{
+
+
+	background-color:#C42416;
+}
+
+#niecoocukrikoch,#informacie,#kontaktujte
+{
+color: white;
+	font-size: 20px;
+}
+
+#niecotext,#informacietext,#kontaktujtetext
+{
+font-weight: bold;
+text-align: left;
+color: white;
+
+}
+
+
+#middletext
+{
+font-size: 40px;
+text-align: center;
+
+}
+
+#smallermiddletext
+{
+
+
+	text-align: center;
+	font-size: 15px;
+}
+
+#mainformtext
+{
+text-align: center;
+font-size: 30px;
+
+
+}
+
+#smallerformtext
+{
+
+	text-align: center;
+	font-size: 15px;
+}
+
+#colorselect
+{
+
+	text-align: center;
+}
+
+#middlepicture
+{
+text-align: center;
+
+}
+
+
+#vlozlogo
+{
+  text-align: center;
+  font-weight: bold;
+}
+.squarered {
+  width: 35px;
+	height: 35px;
+	background: red;
+  margin-top: 40px;
+
+
+
+}
+
+.squareblue
+{
+  width: 35px;
+  height: 35px;
+  background: #3C2A98;
+}
+
+#doplntext
+{
+
+text-align: center;
+
+}
+.table
+{
+text-align: center;
+
+}
+#farbaloga
+{
+	font-size: 20px;
+	text-align: center;
+}
+
+#vlozitlogo
+{
+
+font-size: 20px;
+text-align: center;
+
+}
+
+#extratext
+{
+
+text-align: center;
+	
+}
+
+.square {
+  height: 35px;
+  width: 35px;
+  background-color: #555;
+
+}
+
+#colortable
+{
+width: 40%;
+height: 100%;
+
+}
+
+#colorpick
+{
+background-color: green;
+
+	text-align: center;	
+}
+
+#insertlogo
+{
+
+	text-align: center;
+
+}
+
+
+
+#sweettable
+{
+
+text-align: center;
+
+}
+
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.alert
+{
+
+text-align: center;
+font-weight: bold;
+
+}
+
+
+#prichutcukrikov
+{
+
+	font-weight: bold;
+	font-size: 15px;
+}
+
+
+#predbeznacena
+{
+
+
+font-weight: bold;
+
+
+}
+
+#cena
+{
+
+
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#ktoresmerealizovali
+{
+
+
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+}
